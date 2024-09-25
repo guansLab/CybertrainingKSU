@@ -27,13 +27,11 @@ We expect the trainees to be able to understand, interpret, and utilize the quan
 ## Tutorial Contents
 * Introduction: Welcome and explain the tutorial schedule and speaker.
 * Quantum Noise: the existing quantum computers - aka Noisy Intermediate-Scale Quantum (NISQ) machines are intrinsically highly error-prone and produce output far from the quantum algorithms' correct output. We will primarily discuss the mitigation techniques for the noisy output and the role of the quantum system software in making erroneous quantum devices more usable and meaningful. In this tutorial, participants will explore the fundamentals of quantum noise, its distinction from classical noise, and its importance in the realm of quantum computing. The session will delve into the various origins of quantum noise, including decoherence, environmental interactions, and flaws in quantum hardware.
-* VACSEN: Explain the design, implementation, and usage of VACSEN (TVCG 2023), the visualization tool for monitoring the hardware noise
-  
+* VACSEN: Explain the design, implementation, and usage of VACSEN (**TVCG 2023**), the visualization tool for monitoring the hardware noise.
 <picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/images/VACSEN-example-1.png">
 </picture>
-
-* QuantumEyes: Explain the design, implementation, and usage of QuantumEyes (TVCG 2023), the visualization tool for visual debugging.
+* QuantumEyes: Explain the design, implementation, and usage of QuantumEyes (**TVCG 2023**), the visualization tool for visual debugging.
 <picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/images/quantumeyes-1.png">
 </picture>
