@@ -31,7 +31,7 @@ We expect the trainees to be able to understand, interpret, and utilize the quan
   
 <picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/images/VACSEN-example-1.png">
-  </picture>
+</picture>
 
 
 
