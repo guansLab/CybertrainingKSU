@@ -6,7 +6,14 @@
 
 **Presentor**:[Qiang Guan](http://www.guans.cs.kent.edu/)(KENT STATE UNIVERSITY)
 
-**Sponsor**: NSF [2217021](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217021) 
+**Sponsor**: NSF [2217021](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217021) [2320957](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2320957) 
 
 ## Summary
-This tutorial will focus on introducing QVT, the quantum visualization toolkit. QVT aims to provide va isual interface to help developers understand the quantum hardware, quantum compiler optimization and result interpretation
+This tutorial will focus on introducing QVT, the quantum visualization toolkit. QVT aims to provide a visual interface to help developers understand the quantum hardware, quantum compiler optimization and result interpretation
+
+## Authors
+- Qiang Guan, Betis Behari and Priyabrata Senapati (Kent State University)
+- Weiwen Jiang and Yuhong Song (George Mason University)
+- Shaolun Ruan (Singapore Management University)
+- Cheng-chang Lu (Cradle Inc)
+
