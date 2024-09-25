@@ -30,7 +30,7 @@ We expect the trainees to be able to understand, interpret, and utilize the quan
 * VACSEN: Explain the design, implementation, and usage of VACSEN (TVCG 2023), the visualization tool for monitoring the hardware noise
 
 <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/images/vacsen-png.png">
 </picture>
 <img width="500" img align="middle" alt="vacsen" src=" https://github.com/guansLab/CybertrainingKSU/tree/main/images/vacsen-png.png">
 
