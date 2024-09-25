@@ -36,7 +36,7 @@ We expect the trainees to be able to understand, interpret, and utilize the quan
 * QuantumEyes: Explain the design, implementation, and usage of QuantumEyes (**TVCG 2023**), the visualization tool for visual debugging.
 
 <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/images/quantumeyes=1.png" width="500" 
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/images/quantumeyes-1.png" width="500" 
      height="350"/>
 </picture>
 
