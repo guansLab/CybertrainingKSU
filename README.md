@@ -40,7 +40,7 @@ We expect the trainees to be able to understand, interpret, and utilize the quan
      height="350"/>
 </picture>
 
-* VIOLET: Explain the design, implementation, and usage of VIOLET ~\cite{Ruan:2023vnk}, the visualization tool for explainable quantum machine learning.
+* VIOLET: Explain the design, implementation, and usage of VIOLET (**TVCG 2023**), the visualization tool for explainable quantum machine learning.
   
 <picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/images/violet-1.png" width="500" 
